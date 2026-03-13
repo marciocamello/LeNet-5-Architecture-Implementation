@@ -7,7 +7,6 @@ This project is an implementation of the classic **LeNet-5** architecture using 
 This project is part of the **NLW Operator** event by **Rocketseat** (Python Track). It explores the foundations of computer vision by implementing one of the most influential neural network architectures in history. This project covers the entire pipeline: from data preparation to model training and visualization of learned features.
 
 - **Event**: [NLW Operator](https://www.rocketseat.com.br/nlw)
-- **Course Material**: [Python Track - Computer Vision](https://efficient-sloth-d85.notion.site/Trilha-Python-Vis-o-computacional-310395da577080429c54d0ed34bca55d)
 
 ### Key Topics Covered:
 - **CNN Fundamentals**: Understanding how convolutional layers extract spatial features.
